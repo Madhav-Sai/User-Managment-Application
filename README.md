@@ -24,7 +24,7 @@ This is a simple user management script written in Bash. It allows you to add, s
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/Madhav-Sai/User-Managment-Application.git
    ```
 
 2. Navigate to the script directory:
@@ -36,13 +36,13 @@ This is a simple user management script written in Bash. It allows you to add, s
 3. Make the script executable:
 
    ```bash
-   chmod +x your_script.sh
+   chmod +x script.sh
    ```
 
 4. Run the script:
 
    ```bash
-   ./your_script.sh
+   ./script.sh
    ```
 
 ## How to Use
@@ -58,10 +58,4 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 This project is licensed under the [MIT License](LICENSE).
 
-## Acknowledgments
 
-- Thanks to [Your Name] for contributing to the project.
-
-```
-
-Replace "your-username" and "your-repo" with your GitHub username and repository name. You can also add more sections, such as "Troubleshooting," "Known Issues," or any other relevant information specific to your script.
