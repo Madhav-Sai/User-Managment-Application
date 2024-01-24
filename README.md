@@ -24,7 +24,7 @@ This is a simple user management script written in Bash. It allows you to add, s
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Madhav-Sai/User-Managment-Application.git
+         https://github.com/Madhav-Sai/User-Managment-Application.git
    ```
 
 2. Navigate to the script directory:
